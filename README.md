@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nikhil</h1>
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">Owner of N A C CREATIVE. 🇮🇳</h3>
 
 - 🔭 I’m currently working on [GROUP VOICE CHAT BOT](t.me/nacbots)
@@ -12,7 +12,7 @@
 - 📫 How to reach me **t.me/n_a_c_bot_developers**
 
 - ⚡ **Follow me for more**
-
+<a href="https://ibb.co/0hkV2nx"><img src="https://i.ibb.co/V2dp9Ls/20210322-170300.jpg" alt="20210322-170300" border="0"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/naccreative" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="naccreative" height="30" width="40" /></a>
