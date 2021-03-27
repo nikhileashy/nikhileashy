@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Nothing 😛**
 
-- Our bots [Click here](t.me/nacbots/1)
+- Our bots [Click here](https://t.me/nacbots/1)
 
-- 👨‍💻 All of my projects are available at [t.me/nacbots](t.me/nacbots)
+- 👨‍💻 All of my projects are available at [N A C  Bots](https://t.me/nacbots)
 
-- 📫 How to reach me **t.me/n_a_c_bot_developers**
+- 📫 How to reach me **[N A C  Bots](https://t.me/n_a_c_bot_developers)**
 
 - ⚡ **Follow me for more**
 <a href="https://ibb.co/0hkV2nx"><img src="https://i.ibb.co/V2dp9Ls/20210322-170300.jpg" alt="20210322-170300" border="0"></a>
