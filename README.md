@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&locale=en" alt="nikhileashy" /></p>
 
-
+[![Stats](https://github-readme-stats.vercel.app/api?username=nikhileashy&hide=prs&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhileashy&theme=dark)](https://git.io/streak-stats)
