@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&locale=en" alt="nikhileashy" /></p>
 
 <a href="https://ibb.co/RvKv9Rw"><img src="https://i.ibb.co/qy8ydTQ/Pngtree-mobile-phone-like-3d-element-5442970.png" alt="Pngtree-mobile-phone-like-3d-element-5442970" border="0"></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhileashy)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhileashy&theme=dark)](https://git.io/streak-stats)
