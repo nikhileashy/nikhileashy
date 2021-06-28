@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&locale=en" alt="nikhileashy" /></p>
 
 <a href="https://ibb.co/RvKv9Rw"><img src="https://i.ibb.co/qy8ydTQ/Pngtree-mobile-phone-like-3d-element-5442970.png" alt="Pngtree-mobile-phone-like-3d-element-5442970" border="0"></a>
+<img align="center" src="https://camo.githubusercontent.com/a9360fa6622d28a6380ab2a3d2687d08b162f480a49138c49d479d1ee854c791/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d696e756b61617369746826" alt="nikhileashy" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=nikhileashy&amp;" style="max-width:100%;">
