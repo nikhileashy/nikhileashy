@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">Owner of N A C CREATIVE. 🇮🇳</h3>
 
-- 🔭 I’m currently working on [GROUP VOICE CHAT BOT](t.me/nacbots)
+- 🔭 I’m currently working on [GROUP VIDEO CHAT BOT](t.me/nacbots)
 
 - 🌱 I’m currently learning **Nothing 😛**
 
