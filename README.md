@@ -30,7 +30,7 @@
 
 
 
-![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&theme=dark&show)
+![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&theme=slateorange)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhileashy&theme=dark)](https://git.io/streak-stats)
