@@ -30,7 +30,7 @@
 
 
 
-![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&title_color=FA8C00&text_color=FCFCFC&icon_color=FA8C00&bg_color=151515&)
+![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&title_color=FA8C00&text_color=FCFCFC&icon_color=FA8C00&bg_color=151515&border_color=FA8C00&border_radius=)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhileashy&theme=dark)](https://git.io/streak-stats)
