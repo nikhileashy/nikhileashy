@@ -31,9 +31,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark&align=center)](https://github.com/nikhileashy)
 
-<a href="https://t.me/nacbots">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark" />
-</a>
 
 
 
