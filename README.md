@@ -29,7 +29,7 @@
 
 
 
-<a [![trophy](https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) align="center" </a>
+<a [![trophy](https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) align="center" ></a>
 
 
 
