@@ -31,6 +31,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark&align=center)](https://github.com/nikhileashy)
 
+<a href="https://t.me/nacbots">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark" />
+</a>
+
 
 
 ![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true)
