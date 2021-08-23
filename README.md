@@ -29,7 +29,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark)](https://github.com/nikhileashy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark&align=center)](https://github.com/nikhileashy)
 
 
 
