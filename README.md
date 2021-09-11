@@ -46,5 +46,9 @@
 
 ![Metrics](https://metrics.lecoq.io/nikhileashy?template=classic&lines=1&achievements=1&notable=1&pagespeed=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.repositories=false&pagespeed.url=http%3A%2F%2Fnaccreatives.renderforestsites.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
 
+ <p align="center">
+  <img src="https://github.com/nikhileashy/nikhileashy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 </details>
   
