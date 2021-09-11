@@ -33,16 +33,16 @@
 
 
 
-
+<p align="center">
 ![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhileashy&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
-
+</p>
 
 
 
 <details>
 <summary>🔹 More....</summary>
 
-![Metrics](https://metrics.lecoq.io/nikhileashy?template=classic&lines=1&achievements=1&notable=1&pagespeed=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.repositories=false&pagespeed.url=http%3A%2F%2Fnaccreatives.renderforestsites.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/nikhileashy?template=classic&lines=1&achievements=1&notable=1&pagespeed=1&isocalendar=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.repositories=false&pagespeed.url=http%3A%2F%2Fnaccreatives.renderforestsites.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
 
 </details>
   
