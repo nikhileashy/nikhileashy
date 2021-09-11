@@ -13,7 +13,11 @@
  
 -  ⚡ **Follow me for more**
   
-<a href="https://ibb.co/Ht5gb8c"><img src="https://cdn.dribbble.com/users/873395/screenshots/3157364/desk-full-gif.gif" alt="image-processing20210405-32501-doifx3" border="0" align="center"></a>
+<p align="center">
+ 
+![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhileashy&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+ 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -33,14 +37,6 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark&align=center)](https://github.com/nikhileashy)
-
-
-
-<p align="center">
- 
-![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhileashy&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
- 
-</p>
 
 
 
