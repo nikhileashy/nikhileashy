@@ -16,11 +16,14 @@
 <a href="https://ibb.co/Ht5gb8c"><img src="https://cdn.dribbble.com/users/873395/screenshots/3157364/desk-full-gif.gif" alt="image-processing20210405-32501-doifx3" border="0" align="center"></a>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="center">
   
 <a href="https://codepen.io/naccreative" target="blank"><img align="center" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/codepen-01.svg" alt="naccreative" height="45" width="45" /></a>
 <a href="https://stackoverflow.com/users/naccreative" target="blank"><img align="center" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/stackoverflow-01-01.svg" alt="naccreative" height="45" width="45" align="center" /></a><a href="https://t.me/nacbots"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/telegram-01.svg" alt="image-processing20210405-32501-doifx3" border="0" height="48" width="60" align="center" /></a>
-<a href="https://instagram.com/n_a_c_editz"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/instagram-01.svg" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080" hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'></a><br />
+<a href="https://instagram.com/n_a_c_editz"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/instagram-01.svg" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080"
+ hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'></a><br />
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
