@@ -40,9 +40,9 @@
 
 
 <details>
-<summary>Read more....</summary>
+<summary>🔹 More....</summary>
 
-[![Metrics](https://metrics.lecoq.io/nikhileashy?template=classic&languages=1&isocalendar=1&lines=1&achievements=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=http%3A%2F%2Fnaccreatives.renderforestsites.com&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)](https://t.me/nacbots)
+![Metrics](https://metrics.lecoq.io/nikhileashy?template=classic&lines=1&achievements=1&notable=1&pagespeed=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.repositories=false&pagespeed.url=http%3A%2F%2Fnaccreatives.renderforestsites.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
 
 </details>
   
