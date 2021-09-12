@@ -34,7 +34,7 @@
 
 <p align="center">
  
-<a href="https://codepen.io/naccreative" target="blank"><img align="center" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/tools.svg" alt="naccreative" " /></a>
+<a href="https://codepen.io/naccreative" target="blank"><img align="center" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/tools.svg" alt="naccreative"/></a>
 
  </p>
  
