@@ -43,7 +43,9 @@
  </p>
  
 <p align="center">
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark&align=center)](https://github.com/nikhileashy)
+
 </p>
 
 <details>
