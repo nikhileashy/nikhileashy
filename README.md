@@ -20,8 +20,8 @@
  
 <h3 align="left">CONNECT WITH ME:</h3>
 
-<p align="center">
- 
+
+ <p align="center"> 
 <a href="https://codepen.io/naccreative" target="blank"><img align="center" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/codepen-01.svg" alt="naccreative" height="45" width="45" />
  </a>
 <a href="https://stackoverflow.com/users/naccreative" target="blank"><img align="center" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/stackoverflow-01-01.svg" alt="naccreative" height="45" width="45" align="center" />
@@ -31,8 +31,9 @@
 <a href="https://instagram.com/n_a_c_editz"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/instagram-01.svg" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080"
  hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>
  </a>
+</p>  
  
-</p>
+
 
 <h3 align="left">Languages and Tools</h3>
 
