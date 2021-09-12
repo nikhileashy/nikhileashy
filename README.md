@@ -45,10 +45,8 @@
  ---
  
  <p align="center">
-    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark"/>
+    <img width="79%" src="https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark"/>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark&align=center)](https://github.com/nikhileashy)
 
 <details>
 <summary>🔹 More....</summary>
