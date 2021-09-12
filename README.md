@@ -34,14 +34,12 @@
  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
-<p align="center">
- 
-<a href="https://codepen.io/naccreative" target="blank"><img align="center" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/tools-01.svg" alt="naccreative" border="0" hight="400" width="400"/></a>
+ <p align="center">
+    <img width="69%" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/tools-01.svg"/>
+</p> 
 
- </p>
- 
  ---
  
  <p align="center">
