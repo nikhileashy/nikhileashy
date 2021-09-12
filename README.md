@@ -38,13 +38,13 @@
 <h3 align="center">LANGUAGES & TOOLS</h3>
 
  <p align="center">
-    <img width="69%" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/tools-01.svg"/>
+    <img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/tools-01.svg"/>
 </p> 
 
  ---
  
  <p align="center">
-    <img width="69%" src="https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark"/>
 </p>
 
 <details>
