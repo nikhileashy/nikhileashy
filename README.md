@@ -18,7 +18,7 @@
     <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=nikhileashy&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
 </p>
  
-<h3 align="left">CONNECT WITH ME:</h3>
+<h3 align="center">CONNECT WITH ME</h3>
 
 
  <p align="center"> 
@@ -35,7 +35,7 @@
  
 
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="center">LANGUAGES & TOOLS</h3>
 
  <p align="center">
     <img width="69%" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/tools-01.svg"/>
