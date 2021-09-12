@@ -18,12 +18,6 @@
     <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=nikhileashy&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
 </p>
  
-<p align="center">
- 
-![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhileashy&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
- 
-</p>
-
 <h3 align="left">CONNECT WITH ME:</h3>
 
 <p align="center">
