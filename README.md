@@ -45,7 +45,7 @@
  ---
  
  <p align="center">
-    <img width="79%" src="https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark"/>
+    <img width="69%" src="https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark"/>
 </p>
 
 <details>
