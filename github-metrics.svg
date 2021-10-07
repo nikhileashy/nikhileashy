@@ -1566,8 +1566,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="200.69 329"/>
-                                <text x="60" y="60" dominant-baseline="central">61</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="223.72000000000003 329"/>
+                                <text x="60" y="60" dominant-baseline="central">68</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1627,7 +1627,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                2.38 s
+                2.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1675,7 +1675,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                2.38 s
+                2.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -3474,7 +3474,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 07/10/2021, 12:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 07/10/2021, 13:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
