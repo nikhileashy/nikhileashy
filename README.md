@@ -50,7 +50,9 @@
 <details>
 <summary>🔹 More...</summary>
 
-![Metrics](https://metrics.lecoq.io/nikhileashy?template=classic&languages=1&isocalendar=1&lines=1&achievements=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=http%3A%2F%2Fnaccreatives.renderforestsites.com%2F&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
+<p align="center">
+  <img src="https://github.com/nikhileashy/nikhileashy/github-metrics.svg" alt="metrix"></center>
+</p>
 
  <p align="center">
   <img src="https://github.com/nikhileashy/nikhileashy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
