@@ -51,7 +51,7 @@
 <summary>🔹 More...</summary>
 
 <p align="center">
-  <img src="https://github.com/nikhileashy/nikhileashy/github-metrics.svg" alt="metrix"></center>
+  <img src="https://raw.githubusercontent.com/nikhileashy/nikhileashy/main/github-metrics.svg" alt="metrix"></center>
 </p>
 
  <p align="center">
