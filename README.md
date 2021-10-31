@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Owner of N A C CREATIVE. 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Nikhil Eashy</h1>
+<h3 align="center">Owner of N A C CREATIVES. 🇮🇳</h3>
 
 - 🔭 I’m currently working on [GROUP VIDEO CHAT BOT](t.me/nacbots)
 
@@ -7,7 +7,7 @@
 
 - Our bots [Click here](t.me/nacbots/1)
 
-- 👨‍💻 All of my projects are available at [t.me/nacbots](t.me/nacbots)
+- 👨‍💻 All of my projects are available at [N A C BOTS](https://github.com/nacbots)
 
 - 📫 How to reach me **t.me/n_a_c_bot_developers**
  
