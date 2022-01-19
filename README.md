@@ -53,10 +53,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikhileashy/nikhileashy/main/github-metrics.svg" alt="metrix"></center>
 </p>
+</details>
 
+<summary>🔹 More...</summary>
+
+<details>
  <p align="center">
   <img src="https://github.com/nikhileashy/nikhileashy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
 </details>
+
   
