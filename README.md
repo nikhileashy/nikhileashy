@@ -55,9 +55,8 @@
 </p>
 </details>
 
-<summary>🔹 More...</summary>
-
 <details>
+ <summary>🔹 More...</summary>
  <p align="center">
   <img src="https://github.com/nikhileashy/nikhileashy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
