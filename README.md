@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GROUP VIDEO CHAT BOT](t.me/nacbots)
 
-- 🌱 I’m currently learning **Nothing 😛**
+- 🌱 I’m currently learning **C 😛**
 
 - Our bots [Click here](t.me/nacbots/1)
 
