@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Eashy</h1>
 <h3 align="center">Owner of N A C CREATIVES. 🇮🇳</h3>
 
-- 🔭 I’m currently working on [GROUP VIDEO CHAT BOT](t.me/nacbots)
-
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python,React**
 
 - Our bots [Click here](t.me/nacbots/1)
 
