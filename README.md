@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Eashy</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Eashy P</h1>
 <h3 align="center">Owner of N A C CREATIVES. 🇮🇳</h3>
 
 - 🌱 I’m currently learning **Python,React**
