@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Python,React**
 
-- Our bots [Click here](t.me/nacbots/1)
-
 - 👨‍💻 All of my projects are available at [N A C BOTS](https://github.com/nacbots)
 
 - 📫 How to reach me **t.me/n_a_c_bot_developers**
