@@ -8,8 +8,8 @@
 - 📫 How to reach me **t.me/n_a_c_bot_developers**
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=nikhileashy&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent">
-    <img src="https://github-stats-extended.vercel.app/api?username=nikhileashy&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+  <a href="https://github-stats-extended.vercel.app/api?username=nikhileashy&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=github_dark">
+    <img src="https://github-stats-extended.vercel.app/api?username=nikhileashy&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" />
   </a>
 </p>
  
