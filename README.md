@@ -6,8 +6,12 @@
 - 👨‍💻 All of my projects are available at [N A C BOTS](https://github.com/nacbots)
 
 - 📫 How to reach me **t.me/n_a_c_bot_developers**
- 
--  ⚡ **Follow me for more**
+
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=nikhileashy&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent">
+    <img src="https://github-stats-extended.vercel.app/api?username=nikhileashy&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+  </a>
+</p>
  
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nikhileashy&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true"/>
