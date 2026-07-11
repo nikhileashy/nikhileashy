@@ -44,7 +44,7 @@
  ---
  
  <p align="center">
-    <!-- <img src="https://github-profile-trophy.vercel.app/?username=nikhileashy&theme=onedark"/> -->
+    <img src="https://trophy.benkou.dev/?username=nikhileashy&theme=darkhub"/>
 </p>
 
 <details>
