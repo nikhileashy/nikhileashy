@@ -27,7 +27,7 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Render animated contribution graph SVG
-        run: python scripts/generate_streak_svg.py AVIVASHISHTA29 contrib-heatmap.svg
+        run: python scripts/generate_streak_svg.py nikhileashy contrib-heatmap.svg
 
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
