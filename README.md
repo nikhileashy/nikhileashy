@@ -40,7 +40,10 @@
  <p align="center">
     <img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/tools-01.svg"/>
 </p> 
+<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
 
+<br>
+<br>
  ---
  
  <p align="center">
