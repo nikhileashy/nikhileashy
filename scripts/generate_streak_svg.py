@@ -27,8 +27,10 @@ total = data["total"]["lastYear"]
 
 # ---- layout ----
 CELL, GAP, RAD, LEFT, TOP = 13, 3, 2.5, 34, 24
-COLORS = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
-FLASH = "#b4ffaa"
+
+# Updated to GitHub Blue theme shades
+COLORS = ["#161b22", "#0a3069", "#0969da", "#2f81f7", "#58a6ff"]
+FLASH = "#a5d6ff"
 GRAY = "#7d8590"
 MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
 
