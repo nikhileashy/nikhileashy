@@ -1,6 +1,6 @@
 name: Update profile art
 
-# Refreshes the contribution graph SVG daily from real data.
+# Refreshes the contribution graph SVG daily from real data. 
 # Runs daily, plus whenever you push to main, plus on-demand.
 
 "on":
