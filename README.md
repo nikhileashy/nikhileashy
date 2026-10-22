@@ -43,14 +43,13 @@
 <img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
-<br>
- ---
+<!-- <br>
  
  <p align="center">
     <img src="https://trophy.benkou.dev/?username=nikhileashy&theme=darkhub"/>
-</p>
+</p> -->
 
-<details>
+<!-- <details>
 <summary>🔹 More...</summary>
 
 <p align="center">
@@ -62,7 +61,7 @@
   <img src="https://github.com/nikhileashy/nikhileashy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 </details>
-</details>
+</details> -->
 
 
 
